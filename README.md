@@ -1,5 +1,5 @@
 # GeorgyGarino
-![Header image]([Blue and White Tech Daniel Gallego Facebook Cover.png](https://github.com/garinogeorgiana/garinogeorgiana/blob/ef67e5dbccf38282369b344697e36d19ae69a290/Blue%20and%20White%20Tech%20Daniel%20Gallego%20Facebook%20Cover.png))
+![Header image](https://raw.githubusercontent.com/garinogeorgiana/garinogeorgiana/master/Blue and White Tech Daniel Gallego Facebook Cover.png))
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
