@@ -9,6 +9,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 [![Instagram Badge](https://img.shields.io/badge/-GeorgianaGarino-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/GeorgianaGarino/)](https://www.instagram.com/georgy_garino/)
 [![Gmail Badge](https://img.shields.io/badge/-garinogeorgiana@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garinogeorgiana@gmail.com)](mailto:garinogeorgiana@gmail.com)
 ## ⚡ Domains:
-- Internet of Things
-- Blockchain
+- Backend
+- Microservices
+- Testing
 - Web Development
