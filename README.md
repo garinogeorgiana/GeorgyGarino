@@ -1,5 +1,5 @@
 # GeorgyGarino
-![Header image](https://raw.githubusercontent.com/garinogeorgiana/garinogeorgiana/master/imagen.png))
+![Header image](https://raw.githubusercontent.com/garinogeorgiana/garinogeorgiana/master/imagen.png)
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
